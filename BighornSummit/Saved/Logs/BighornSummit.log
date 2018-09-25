@@ -1,0 +1,1155 @@
+﻿Log file open, 09/25/18 14:29:14
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: BighornSummit
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.397947
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.126s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4233996
+LogInit: Engine Version: 4.20.1-4233996+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz, GPU: NVIDIA GeForce GTX 1080
+LogInit: Compiled (64-bit): Jul 26 2018 10:07:30
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line: 
+LogInit: Base Directory: C:/WPIAPPS/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.09.25-18.29.14:850][  0]LogInit: Selected Device Profile: [Windows]
+[2018.09.25-18.29.14:850][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.09.25-18.29.14:859][  0]LogHAL: Display: Platform has ~ 64 GB [68548632576 / 68719476736 / 64], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.09.25-18.29.14:859][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.09.25-18.29.14:859][  0]LogInit: Going up to parent DeviceProfile []
+[2018.09.25-18.29.14:860][  0]LogInit: Computer: FL222-16
+[2018.09.25-18.29.14:860][  0]LogInit: User: lrbunyea
+[2018.09.25-18.29.14:860][  0]LogInit: CPU Page size=4096, Cores=6
+[2018.09.25-18.29.14:860][  0]LogInit: High frequency timer resolution =3.609364 MHz
+[2018.09.25-18.29.14:860][  0]LogMemory: Memory total: Physical=63.8GB (64GB approx)
+[2018.09.25-18.29.14:860][  0]LogMemory: Platform Memory Stats for Windows
+[2018.09.25-18.29.14:860][  0]LogMemory: Process Physical Memory: 101.18 MB used, 101.18 MB peak
+[2018.09.25-18.29.14:860][  0]LogMemory: Process Virtual Memory: 93.66 MB used, 93.66 MB peak
+[2018.09.25-18.29.14:860][  0]LogMemory: Physical Memory: 9776.68 MB used,  55596.39 MB free, 65373.07 MB total
+[2018.09.25-18.29.14:860][  0]LogMemory: Virtual Memory: 563.79 MB used,  55596.39 MB free, 134217728.00 MB total
+[2018.09.25-18.29.14:873][  0]LogInit: Using OS detected language (en-US).
+[2018.09.25-18.29.14:873][  0]LogInit: Using OS detected locale (en-US).
+[2018.09.25-18.29.14:874][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.09.25-18.29.15:147][  0]LogStreaming: Display: Took  0.274s to InitEngineTextLocalization.
+[2018.09.25-18.29.15:147][  0]LogInit: Setting process to per monitor DPI aware
+[2018.09.25-18.29.15:177][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.09.25-18.29.15:177][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.09.25-18.29.15:325][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.09.25-18.29.15:325][  0]LogD3D11RHI: D3D11 adapters:
+[2018.09.25-18.29.15:395][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2018.09.25-18.29.15:395][  0]LogD3D11RHI:       8079/0/32686 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.09.25-18.29.15:418][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2018.09.25-18.29.15:418][  0]LogD3D11RHI:       128/0/32686 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.09.25-18.29.15:420][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.09.25-18.29.15:420][  0]LogD3D11RHI:       0/0/32686 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.09.25-18.29.15:420][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.09.25-18.29.15:427][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.09.25-18.29.15:427][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2018.09.25-18.29.15:427][  0]LogWindows: EnumDisplayDevices:
+[2018.09.25-18.29.15:427][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2018.09.25-18.29.15:427][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.09.25-18.29.15:428][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.09.25-18.29.15:428][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.09.25-18.29.15:428][  0]LogWindows:    4. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2018.09.25-18.29.15:428][  0]LogWindows:    5. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2018.09.25-18.29.15:429][  0]LogWindows:    6. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2018.09.25-18.29.15:429][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2018.09.25-18.29.15:429][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2018.09.25-18.29.15:429][  0]LogD3D11RHI:   Driver Version: 390.65 (internal:23.21.13.9065, unified:390.65)
+[2018.09.25-18.29.15:429][  0]LogD3D11RHI:      Driver Date: 1-3-2018
+[2018.09.25-18.29.15:429][  0]LogRHI: Texture pool is 5655 MB (70% of 8079 MB)
+[2018.09.25-18.29.15:458][  0]LogD3D11RHI: Async texture creation enabled
+[2018.09.25-18.29.15:475][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.09.25-18.29.15:477][  0]LogShaderCompilers: Guid format shader working directory is -8 characters bigger than the processId version (../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Intermediate/Shaders/WorkingDirectory/5416/).
+[2018.09.25-18.29.15:477][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/lrbunyea/AppData/Local/Temp/UnrealShaderWorkingDir/2EC010E248C1BF7193C8FEBBFA8CC920/'.
+[2018.09.25-18.29.15:770][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.09.25-18.29.15:780][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.09.25-18.29.15:790][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.09.25-18.29.15:800][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.09.25-18.29.15:810][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.09.25-18.29.15:820][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.09.25-18.29.15:830][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.09.25-18.29.15:840][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.09.25-18.29.15:845][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.09.25-18.29.15:902][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.25-18.29.15:902][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.25-18.29.15:902][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.25-18.29.15:902][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.25-18.29.15:902][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.25-18.29.15:902][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.25-18.29.15:902][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.25-18.29.15:902][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.25-18.29.15:902][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.25-18.29.15:902][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.25-18.29.15:902][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.25-18.29.15:902][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.25-18.29.15:902][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.25-18.29.15:902][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.25-18.29.15:902][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.25-18.29.15:902][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.25-18.29.15:902][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.25-18.29.15:902][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.25-18.29.15:903][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.09.25-18.29.15:957][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.09.25-18.29.15:957][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.09.25-18.29.15:975][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.09.25-18.29.15:975][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.09.25-18.29.15:984][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.09.25-18.29.15:993][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.09.25-18.29.16:002][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.09.25-18.29.16:012][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.09.25-18.29.16:018][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.09.25-18.29.16:018][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.09.25-18.29.16:066][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.09.25-18.29.16:066][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.09.25-18.29.16:066][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.09.25-18.29.16:643][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.09.25-18.29.16:689][  0]LogDerivedDataCache: Loaded boot cache 0.05s 87MB C:/Users/lrbunyea/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.09.25-18.29.16:689][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/lrbunyea/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.09.25-18.29.16:689][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Users/lrbunyea/BighornSummit/BighornSummit/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.09.25-18.29.16:689][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.09.25-18.29.16:690][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Users/lrbunyea/BighornSummit/BighornSummit/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.09.25-18.29.16:690][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.09.25-18.29.16:699][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.09.25-18.29.16:711][  0]LogDerivedDataCache: Using Local data cache path C:/Users/lrbunyea/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.09.25-18.29.16:711][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.09.25-18.29.16:711][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.09.25-18.29.16:724][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.09.25-18.29.16:725][  0]LogSlate: Using FreeType 2.6.0
+[2018.09.25-18.29.16:726][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.09.25-18.29.16:789][  0]LogAssetRegistry: FAssetRegistry took 0.0252 seconds to start up
+[2018.09.25-18.29.17:054][  0]LogInit: Selected Device Profile: [Windows]
+[2018.09.25-18.29.17:156][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.09.25-18.29.17:159][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.09.25-18.29.17:159][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.09.25-18.29.17:159][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.09.25-18.29.17:159][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.09.25-18.29.17:174][  0]LogNetVersion: BighornSummit 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 455285204)
+[2018.09.25-18.29.17:579][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.085782 seconds
+[2018.09.25-18.29.17:584][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.09.25-18.29.17:584][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2018.09.25-18.29.17:584][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.09.25-18.29.18:245][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.09.25-18.29.18:269][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.09.25-18.29.18:391][  0]SourceControl: Source control is disabled
+[2018.09.25-18.29.18:391][  0]SourceControl: Source control is disabled
+[2018.09.25-18.29.18:392][  0]SourceControl: Source control is disabled
+[2018.09.25-18.29.18:393][  0]SourceControl: Source control is disabled
+[2018.09.25-18.29.18:536][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.09.25-18.29.18:578][  0]LogOcInput: OculusInput pre-init called
+[2018.09.25-18.29.18:626][  0]LogEngine: Initializing Engine...
+[2018.09.25-18.29.18:626][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.09.25-18.29.18:627][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.09.25-18.29.18:627][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.09.25-18.29.18:627][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.09.25-18.29.18:627][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.09.25-18.29.18:779][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.09.25-18.29.18:791][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.09.25-18.29.18:800][  0]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.25-18.29.19:020][  0]LogInit: FAudioDevice initialized.
+[2018.09.25-18.29.19:020][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.09.25-18.29.19:126][  0]LogDerivedDataCache: Saved boot cache 0.11s 87MB C:/Users/lrbunyea/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.09.25-18.29.19:130][  0]LogInit: Texture streaming: Enabled
+[2018.09.25-18.29.19:144][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.09.25-18.29.19:157][  0]LogInit: Transaction tracking system initialized
+[2018.09.25-18.29.19:176][  0]BlueprintLog: New page: Editor Load
+[2018.09.25-18.29.19:275][  0]LocalizationService: Localization service is disabled
+[2018.09.25-18.29.19:498][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.09.25-18.29.19:498][  0]LogCook: Display: Mobile HDR setting 1
+[2018.09.25-18.29.19:498][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.09.25-18.29.19:498][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.09.25-18.29.19:498][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.09.25-18.29.19:499][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.09.25-18.29.19:499][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.09.25-18.29.19:603][  0]LogFileCache: Scanning file cache for directory 'C:/Users/lrbunyea/BighornSummit/BighornSummit/Content/' took 0.01s
+[2018.09.25-18.29.19:603][  0]SourceControl: Source control is disabled
+[2018.09.25-18.29.19:604][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/WPIAPPS/UE_4.20/FeaturePacks/StarterContent.upack)
+[2018.09.25-18.29.19:739][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2018.09.25-18.29.19:761][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2018.09.25-18.29.19:767][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2018.09.25-18.29.19:776][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2018.09.25-18.29.19:793][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2018.09.25-18.29.19:799][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2018.09.25-18.29.19:806][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2018.09.25-18.29.19:811][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2018.09.25-18.29.19:818][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2018.09.25-18.29.19:824][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2018.09.25-18.29.19:830][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2018.09.25-18.29.19:837][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2018.09.25-18.29.19:844][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Audio/Collapse01.uasset"
+[2018.09.25-18.29.19:851][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Audio/Collapse02.uasset"
+[2018.09.25-18.29.19:871][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2018.09.25-18.29.19:878][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Audio/Explosion01.uasset"
+[2018.09.25-18.29.19:909][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Audio/Explosion02.uasset"
+[2018.09.25-18.29.19:922][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2018.09.25-18.29.19:929][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Audio/Fire01.uasset"
+[2018.09.25-18.29.19:938][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2018.09.25-18.29.19:950][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2018.09.25-18.29.19:955][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2018.09.25-18.29.19:962][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Audio/Light01.uasset"
+[2018.09.25-18.29.19:966][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2018.09.25-18.29.19:973][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Audio/Light02.uasset"
+[2018.09.25-18.29.19:977][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2018.09.25-18.29.19:985][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Audio/Smoke01.uasset"
+[2018.09.25-18.29.19:989][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2018.09.25-18.29.19:995][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2018.09.25-18.29.20:011][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2018.09.25-18.29.20:062][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2018.09.25-18.29.20:068][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2018.09.25-18.29.20:097][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2018.09.25-18.29.20:109][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2018.09.25-18.29.20:118][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Audio/Steam01.uasset"
+[2018.09.25-18.29.20:122][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2018.09.25-18.29.20:135][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2018.09.25-18.29.20:141][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2018.09.25-18.29.20:149][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2018.09.25-18.29.20:156][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2018.09.25-18.29.20:163][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2018.09.25-18.29.20:170][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2018.09.25-18.29.20:177][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2018.09.25-18.29.20:184][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2018.09.25-18.29.20:190][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2018.09.25-18.29.20:197][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2018.09.25-18.29.20:205][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2018.09.25-18.29.20:211][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2018.09.25-18.29.20:217][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2018.09.25-18.29.20:227][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2018.09.25-18.29.20:257][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2018.09.25-18.29.20:261][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2018.09.25-18.29.20:797][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2018.09.25-18.29.20:804][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2018.09.25-18.29.20:813][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2018.09.25-18.29.20:823][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Maps/Minimal_Default.umap"
+[2018.09.25-18.29.20:885][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2018.09.25-18.29.20:894][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Maps/StarterMap.umap"
+[2018.09.25-18.29.21:037][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2018.09.25-18.29.21:044][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2018.09.25-18.29.21:051][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2018.09.25-18.29.21:058][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2018.09.25-18.29.21:111][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2018.09.25-18.29.21:118][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2018.09.25-18.29.21:125][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2018.09.25-18.29.21:131][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2018.09.25-18.29.21:137][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2018.09.25-18.29.21:144][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2018.09.25-18.29.21:150][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2018.09.25-18.29.21:157][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2018.09.25-18.29.21:163][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2018.09.25-18.29.21:170][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2018.09.25-18.29.21:176][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2018.09.25-18.29.21:183][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2018.09.25-18.29.21:189][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2018.09.25-18.29.21:197][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2018.09.25-18.29.21:208][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Materials/M_Glass.uasset"
+[2018.09.25-18.29.21:214][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2018.09.25-18.29.21:221][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2018.09.25-18.29.21:228][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2018.09.25-18.29.21:233][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2018.09.25-18.29.21:239][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2018.09.25-18.29.21:245][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2018.09.25-18.29.21:252][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2018.09.25-18.29.21:259][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2018.09.25-18.29.21:266][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2018.09.25-18.29.21:288][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2018.09.25-18.29.21:295][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2018.09.25-18.29.21:301][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2018.09.25-18.29.21:308][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2018.09.25-18.29.21:314][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2018.09.25-18.29.21:321][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2018.09.25-18.29.21:327][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2018.09.25-18.29.21:334][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2018.09.25-18.29.21:340][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2018.09.25-18.29.21:346][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2018.09.25-18.29.21:353][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2018.09.25-18.29.21:359][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2018.09.25-18.29.21:365][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2018.09.25-18.29.21:371][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2018.09.25-18.29.21:377][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2018.09.25-18.29.21:383][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2018.09.25-18.29.21:390][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2018.09.25-18.29.21:396][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Particles/P_Explosion.uasset"
+[2018.09.25-18.29.21:404][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Particles/P_Fire.uasset"
+[2018.09.25-18.29.21:411][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Particles/P_Smoke.uasset"
+[2018.09.25-18.29.21:418][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Particles/P_Sparks.uasset"
+[2018.09.25-18.29.21:425][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2018.09.25-18.29.21:431][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2018.09.25-18.29.21:437][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2018.09.25-18.29.21:444][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2018.09.25-18.29.21:450][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2018.09.25-18.29.21:456][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2018.09.25-18.29.21:462][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2018.09.25-18.29.21:468][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2018.09.25-18.29.21:475][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2018.09.25-18.29.21:482][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2018.09.25-18.29.21:488][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2018.09.25-18.29.21:496][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Props/MaterialSphere.uasset"
+[2018.09.25-18.29.21:538][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Props/SM_Bush.uasset"
+[2018.09.25-18.29.21:552][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Props/SM_Chair.uasset"
+[2018.09.25-18.29.21:565][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2018.09.25-18.29.21:595][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Props/SM_Couch.uasset"
+[2018.09.25-18.29.21:617][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Props/SM_Door.uasset"
+[2018.09.25-18.29.21:627][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2018.09.25-18.29.21:645][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2018.09.25-18.29.21:663][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2018.09.25-18.29.21:676][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2018.09.25-18.29.21:703][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2018.09.25-18.29.21:721][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2018.09.25-18.29.21:728][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2018.09.25-18.29.21:738][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Props/SM_Rock.uasset"
+[2018.09.25-18.29.21:744][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Props/SM_Shelf.uasset"
+[2018.09.25-18.29.21:935][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Props/SM_Stairs.uasset"
+[2018.09.25-18.29.21:963][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Props/SM_Statue.uasset"
+[2018.09.25-18.29.22:029][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Props/SM_TableRound.uasset"
+[2018.09.25-18.29.22:048][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2018.09.25-18.29.22:542][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2018.09.25-18.29.22:550][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2018.09.25-18.29.22:583][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2018.09.25-18.29.22:599][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2018.09.25-18.29.22:691][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2018.09.25-18.29.22:709][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2018.09.25-18.29.22:722][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2018.09.25-18.29.22:730][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2018.09.25-18.29.22:744][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2018.09.25-18.29.22:765][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2018.09.25-18.29.22:776][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2018.09.25-18.29.22:795][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2018.09.25-18.29.22:811][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2018.09.25-18.29.22:823][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2018.09.25-18.29.22:842][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2018.09.25-18.29.22:849][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2018.09.25-18.29.22:856][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2018.09.25-18.29.22:868][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2018.09.25-18.29.22:874][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2018.09.25-18.29.22:890][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2018.09.25-18.29.22:897][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2018.09.25-18.29.22:920][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2018.09.25-18.29.22:935][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2018.09.25-18.29.22:949][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2018.09.25-18.29.22:959][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2018.09.25-18.29.22:971][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2018.09.25-18.29.22:982][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2018.09.25-18.29.22:998][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2018.09.25-18.29.23:011][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2018.09.25-18.29.23:018][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2018.09.25-18.29.23:025][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2018.09.25-18.29.23:103][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2018.09.25-18.29.23:158][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2018.09.25-18.29.23:200][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2018.09.25-18.29.23:263][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2018.09.25-18.29.23:309][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2018.09.25-18.29.23:430][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2018.09.25-18.29.23:519][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2018.09.25-18.29.23:589][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2018.09.25-18.29.23:675][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2018.09.25-18.29.23:782][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2018.09.25-18.29.23:874][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2018.09.25-18.29.23:933][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2018.09.25-18.29.24:015][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2018.09.25-18.29.24:052][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2018.09.25-18.29.24:129][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2018.09.25-18.29.24:190][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2018.09.25-18.29.24:293][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2018.09.25-18.29.24:300][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2018.09.25-18.29.24:330][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2018.09.25-18.29.24:349][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2018.09.25-18.29.24:357][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2018.09.25-18.29.24:424][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2018.09.25-18.29.24:438][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2018.09.25-18.29.24:504][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2018.09.25-18.29.24:527][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2018.09.25-18.29.24:568][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2018.09.25-18.29.24:639][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2018.09.25-18.29.24:692][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2018.09.25-18.29.24:750][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2018.09.25-18.29.24:854][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2018.09.25-18.29.24:928][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2018.09.25-18.29.25:108][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2018.09.25-18.29.25:194][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2018.09.25-18.29.25:353][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2018.09.25-18.29.25:469][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2018.09.25-18.29.25:500][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2018.09.25-18.29.25:535][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2018.09.25-18.29.25:547][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2018.09.25-18.29.25:575][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2018.09.25-18.29.25:583][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Textures/T_Door_M.uasset"
+[2018.09.25-18.29.25:592][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Textures/T_Door_N.uasset"
+[2018.09.25-18.29.25:610][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2018.09.25-18.29.25:636][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2018.09.25-18.29.25:645][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2018.09.25-18.29.25:675][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2018.09.25-18.29.25:683][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2018.09.25-18.29.25:694][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2018.09.25-18.29.25:720][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2018.09.25-18.29.25:802][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2018.09.25-18.29.25:871][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2018.09.25-18.29.25:937][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2018.09.25-18.29.25:986][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2018.09.25-18.29.26:072][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2018.09.25-18.29.26:164][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2018.09.25-18.29.26:229][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2018.09.25-18.29.26:492][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2018.09.25-18.29.26:582][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2018.09.25-18.29.26:680][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2018.09.25-18.29.26:816][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2018.09.25-18.29.26:919][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2018.09.25-18.29.27:022][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2018.09.25-18.29.27:116][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2018.09.25-18.29.27:180][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2018.09.25-18.29.27:314][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2018.09.25-18.29.27:352][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2018.09.25-18.29.27:420][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2018.09.25-18.29.27:445][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2018.09.25-18.29.27:485][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2018.09.25-18.29.27:649][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2018.09.25-18.29.27:702][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2018.09.25-18.29.27:850][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2018.09.25-18.29.27:933][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2018.09.25-18.29.28:013][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2018.09.25-18.29.28:165][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2018.09.25-18.29.28:312][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2018.09.25-18.29.28:443][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2018.09.25-18.29.28:518][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2018.09.25-18.29.28:528][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2018.09.25-18.29.28:537][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2018.09.25-18.29.28:562][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2018.09.25-18.29.28:569][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2018.09.25-18.29.28:576][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2018.09.25-18.29.28:583][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2018.09.25-18.29.28:590][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2018.09.25-18.29.28:624][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2018.09.25-18.29.28:635][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2018.09.25-18.29.28:642][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2018.09.25-18.29.28:649][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2018.09.25-18.29.28:656][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2018.09.25-18.29.28:675][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2018.09.25-18.29.28:688][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2018.09.25-18.29.28:702][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2018.09.25-18.29.28:714][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Textures/T_Water_M.uasset"
+[2018.09.25-18.29.28:729][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Textures/T_Water_N.uasset"
+[2018.09.25-18.29.28:809][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2018.09.25-18.29.29:330][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2018.09.25-18.29.29:387][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2018.09.25-18.29.29:440][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2018.09.25-18.29.29:548][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2018.09.25-18.29.29:721][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2018.09.25-18.29.29:809][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2018.09.25-18.29.29:893][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2018.09.25-18.29.30:041][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2018.09.25-18.29.30:441][  0]LogStaticMesh: Building static mesh Floor_400x400...
+[2018.09.25-18.29.30:443][  0]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2018.09.25-18.29.30:473][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2018.09.25-18.29.30:546][  0]LogSavePackage: Moving '../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Saved/Floor_400x400545E5B234DBEB34A74BD0E8212D255D3.tmp' to '../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2018.09.25-18.29.30:551][  0]LogFeaturePack: Warning: Inserted 1 feature packs
+[2018.09.25-18.29.30:554][  0]Cmd: MAP LOAD FILE="../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.09.25-18.29.30:555][  0]LightingResults: New page: Lighting Build
+[2018.09.25-18.29.30:557][  0]MapCheck: New page: Map Check
+[2018.09.25-18.29.30:557][  0]LightingResults: New page: Lighting Build
+[2018.09.25-18.29.32:145][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 64X64)
+[2018.09.25-18.29.32:145][  0]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 64X64)
+[2018.09.25-18.29.32:145][  0]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 2048X2048)
+[2018.09.25-18.29.32:145][  0]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 2048X2048)
+[2018.09.25-18.29.32:145][  0]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 2048X2048)
+[2018.09.25-18.29.32:145][  0]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 2048X1024)
+[2018.09.25-18.29.32:145][  0]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 2048X1024)
+[2018.09.25-18.29.32:145][  0]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 2048X2048)
+[2018.09.25-18.29.32:145][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 2048X2048)
+[2018.09.25-18.29.32:145][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 2048X2048)
+[2018.09.25-18.29.32:145][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 2048X2048)
+[2018.09.25-18.29.32:145][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 2048X2048)
+[2018.09.25-18.29.32:145][  0]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 2048X1024)
+[2018.09.25-18.29.32:145][  0]LogTexture: Display: Building textures: SkyOcclusion0_5 (AutoDXT, 64X32)
+[2018.09.25-18.29.32:145][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 2048X1024)
+[2018.09.25-18.29.32:145][  0]LogTexture: Display: Building textures: SkyOcclusion0_4 (AutoDXT, 2048X1024)
+[2018.09.25-18.29.32:145][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 2048X1024)
+[2018.09.25-18.29.32:145][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 2048X1024)
+[2018.09.25-18.29.32:145][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 2048X1024)
+[2018.09.25-18.29.32:145][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 2048X1024)
+[2018.09.25-18.29.32:145][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 2048X1024)
+[2018.09.25-18.29.32:145][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (G8, 2048X1024)
+[2018.09.25-18.29.32:145][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (G8, 64X32)
+[2018.09.25-18.29.33:502][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.09.25-18.29.33:511][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.09.25-18.29.33:532][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.09.25-18.29.33:596][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 63.68ms to complete.
+[2018.09.25-18.29.33:596][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 3.042
+[2018.09.25-18.29.33:661][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.09.25-18.29.33:662][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.09.25-18.29.33:762][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.25-18.29.33:767][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.25-18.29.33:772][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.25-18.29.33:777][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.25-18.29.33:791][  0]LogCollectionManager: Loaded 0 collections in 0.001390 seconds
+[2018.09.25-18.29.33:832][  0]LogFileCache: Scanning file cache for directory 'C:/Users/lrbunyea/BighornSummit/BighornSummit/Saved/Collections/' took 0.01s
+[2018.09.25-18.29.33:832][  0]LogFileCache: Scanning file cache for directory 'C:/Users/lrbunyea/BighornSummit/BighornSummit/Content/Developers/lrbunyea/Collections/' took 0.01s
+[2018.09.25-18.29.33:832][  0]LogFileCache: Scanning file cache for directory 'C:/Users/lrbunyea/BighornSummit/BighornSummit/Content/Collections/' took 0.01s
+[2018.09.25-18.29.33:832][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.09.25-18.29.33:839][  0]LogContentBrowser: Native class hierarchy populated in 0.0069 seconds. Added 2572 classes and 603 folders.
+[2018.09.25-18.29.33:844][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.09.25-18.29.33:886][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.09.25-18.29.33:923][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.09.25-18.29.33:937][  0]LogSlate: Took 0.000133 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.09.25-18.29.33:939][  0]LogSlate: Took 0.000126 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.09.25-18.29.33:959][  0]LogSlate: Took 0.016722 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.09.25-18.29.34:077][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2018.09.25-18.29.34:131][  0]LogSlate: Took 0.000285 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.09.25-18.29.34:169][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.25-18.29.34:206][  0]LogSlate: Window 'Tutorials' being destroyed
+[2018.09.25-18.29.34:237][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.09.25-18.29.34:237][  0]LogLoad: (Engine Initialization) Total time: 21.18 seconds
+[2018.09.25-18.29.34:237][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.09.25-18.29.34:615][  0]LogContentStreaming: Texture pool size now 3000 MB
+[2018.09.25-18.29.34:639][  1]LogAssetRegistry: Asset discovery search completed in 17.8728 seconds
+[2018.09.25-18.29.34:640][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.09.25-18.29.34:640][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000033 seconds (updated 0 objects)
+[2018.09.25-18.29.43:767][ 94]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.25-18.30.56:866][759]LogSlate: Took 0.000275 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.09.25-18.30.56:874][759]LogAssetEditorManager: Opening Asset editor for MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2018.09.25-18.30.58:620][963]LogSlate: Window 'FirstPersonExampleMap_BuiltData - Generic Asset Editor' being destroyed
+[2018.09.25-18.30.58:626][963]LogSlate: Window 'FirstPersonExampleMap_BuiltData - Generic Asset Editor' being destroyed
+[2018.09.25-18.31.34:323][241]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2018.09.25-18.31.34:698][241]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 116 classes and 0 folders.
+[2018.09.25-18.31.35:561][241]LogSlate: Took 0.028473 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.09.25-18.31.35:759][242]LogSlate: Took 0.004287 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.09.25-18.32.11:042][289]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_21 via property FP_Gun, but TRASH_SkeletalMeshComponent_21 is pending kill
+	FirstPersonCharacter_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0017
+[2018.09.25-18.32.11:044][289]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_11 via property FP_Gun, but TRASH_SkeletalMeshComponent_11 is pending kill
+	FirstPersonCharacter_C /Engine/Transient.World_2:PersistentLevel.FirstPersonCharacter_C_0
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0017
+[2018.09.25-18.32.11:045][289]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_30 via property FP_Gun, but TRASH_SkeletalMeshComponent_30 is pending kill
+	FirstPersonCharacter_C /Engine/Transient.World_8:PersistentLevel.FirstPersonCharacter_C_0
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0017
+[2018.09.25-18.32.11:084][289]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_30 via property FP_Gun, but TRASH_SkeletalMeshComponent_30 is pending kill
+	FirstPersonCharacter_C /Engine/Transient.World_8:PersistentLevel.FirstPersonCharacter_C_0
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0017
+[2018.09.25-18.32.22:182][621]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.25-18.32.34:395][ 55]LogEditorTransaction: Undo Delete current selection
+[2018.09.25-18.32.34:402][ 55]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_21 via property FP_Gun, but TRASH_SkeletalMeshComponent_21 is pending kill
+	FirstPersonCharacter_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0017
+[2018.09.25-18.32.34:403][ 55]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_11 via property FP_Gun, but TRASH_SkeletalMeshComponent_11 is pending kill
+	FirstPersonCharacter_C /Engine/Transient.World_2:PersistentLevel.FirstPersonCharacter_C_0
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0017
+[2018.09.25-18.32.34:404][ 55]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_30 via property FP_Gun, but TRASH_SkeletalMeshComponent_30 is pending kill
+	FirstPersonCharacter_C /Engine/Transient.World_8:PersistentLevel.FirstPersonCharacter_C_0
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0017
+[2018.09.25-18.32.42:424][976]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_21 via property FP_Gun, but TRASH_SkeletalMeshComponent_21 is pending kill
+	FirstPersonCharacter_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0017
+[2018.09.25-18.32.42:426][976]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_11 via property FP_Gun, but TRASH_SkeletalMeshComponent_11 is pending kill
+	FirstPersonCharacter_C /Engine/Transient.World_2:PersistentLevel.FirstPersonCharacter_C_0
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0017
+[2018.09.25-18.32.42:427][976]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_30 via property FP_Gun, but TRASH_SkeletalMeshComponent_30 is pending kill
+	FirstPersonCharacter_C /Engine/Transient.World_8:PersistentLevel.FirstPersonCharacter_C_0
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0017
+[2018.09.25-18.32.42:432][976]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_21 via property FP_Gun, but TRASH_SkeletalMeshComponent_21 is pending kill
+	FirstPersonCharacter_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0017
+[2018.09.25-18.32.42:433][976]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_11 via property FP_Gun, but TRASH_SkeletalMeshComponent_11 is pending kill
+	FirstPersonCharacter_C /Engine/Transient.World_2:PersistentLevel.FirstPersonCharacter_C_0
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0017
+[2018.09.25-18.32.42:434][976]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_30 via property FP_Gun, but TRASH_SkeletalMeshComponent_30 is pending kill
+	FirstPersonCharacter_C /Engine/Transient.World_8:PersistentLevel.FirstPersonCharacter_C_0
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0017
+[2018.09.25-18.32.57:034][676]LogSavePackage: Moving '../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Saved/FirstPersonCharacter6A86E379442BB90359A763B350C062E5.tmp' to '../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.09.25-18.32.57:791][765]BlueprintLog: New page: Compile FirstPersonCharacter
+[2018.09.25-18.32.57:809][765]LogBlueprint: Error: [Compiler FirstPersonCharacter] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2018.09.25-18.32.57:810][765]LogBlueprint: Error: [Compiler FirstPersonCharacter] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2018.09.25-18.32.57:937][765]LogBlueprint: Warning: [Compiler FirstPersonCharacter] [0224.88] Compile of FirstPersonCharacter failed. 2 Fatal Issue(s) 0 Warning(s) [in 145 ms] (/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter)
+[2018.09.25-18.33.45:454][437]BlueprintLog: New page: Compile FirstPersonCharacter
+[2018.09.25-18.33.47:393][644]LogSavePackage: Moving '../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Saved/FirstPersonCharacter43490BE5433716D85C99DDA89DC502BC.tmp' to '../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.09.25-18.33.49:871][940]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.25-18.33.49:891][940]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.09.25-18.33.49:891][940]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.25-18.33.49:903][940]PIE: New page: PIE session: FirstPersonExampleMap (Sep 25, 2018, 10:33:49 AM)
+[2018.09.25-18.33.49:903][940]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.09.25-18.33.49:919][940]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014728s)
+[2018.09.25-18.33.49:919][940]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.09.25-18.33.49:920][940]LogPlayLevel: PIE: World Init took: (0.001061s)
+[2018.09.25-18.33.49:920][940]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.016168s)
+[2018.09.25-18.33.49:946][940]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.25-18.33.50:022][940]LogInit: FAudioDevice initialized.
+[2018.09.25-18.33.50:063][940]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.09.25-18.33.50:065][940]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2018.09.25-14.33.50
+[2018.09.25-18.33.50:066][940]LogWorld: Bringing up level for play took: 0.001462
+[2018.09.25-18.33.50:082][940]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 10 classes and 0 folders.
+[2018.09.25-18.33.50:083][940]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.16
+[2018.09.25-18.33.50:083][940]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.09.25-18.33.58:601][954]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.09.25-18.33.58:602][954]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.25-18.33.58:639][954]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.25-18.33.58:639][954]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.09.25-18.33.58:665][954]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.25-18.33.58:681][955]Cmd: SELECT NONE
+[2018.09.25-18.33.58:706][958]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2018.09.25-18.34.01:383][204]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.25-18.34.12:072][461]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2018.09.25-18.34.12:078][461]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2018.09.25-18.35.26:221][ 53]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2018.09.25-18.35.34:884][ 40]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.25-18.35.35:768][140]BlueprintLog: New page: Compile FirstPersonCharacter
+[2018.09.25-18.35.35:784][140]LogBlueprint: Error: [Compiler FirstPersonCharacter] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2018.09.25-18.35.35:897][140]LogBlueprint: Warning: [Compiler FirstPersonCharacter] [0382.84] Compile of FirstPersonCharacter failed. 1 Fatal Issue(s) 0 Warning(s) [in 128 ms] (/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter)
+[2018.09.25-18.35.45:032][226]BlueprintLog: New page: Compile FirstPersonCharacter
+[2018.09.25-18.35.46:272][347]LogSavePackage: Moving '../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Saved/FirstPersonCharacter9612783C491DB61C8751C183174E7C69.tmp' to '../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.09.25-18.35.50:900][901]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.25-18.35.50:918][901]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.09.25-18.35.50:919][901]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.25-18.35.50:919][901]PIE: New page: PIE session: FirstPersonExampleMap (Sep 25, 2018, 10:35:50 AM)
+[2018.09.25-18.35.50:919][901]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.09.25-18.35.50:927][901]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009012s)
+[2018.09.25-18.35.50:928][901]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.09.25-18.35.50:928][901]LogPlayLevel: PIE: World Init took: (0.000588s)
+[2018.09.25-18.35.50:928][901]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.009704s)
+[2018.09.25-18.35.50:957][901]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.25-18.35.51:032][901]LogInit: FAudioDevice initialized.
+[2018.09.25-18.35.51:066][901]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.09.25-18.35.51:068][901]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2018.09.25-14.35.51
+[2018.09.25-18.35.51:068][901]LogWorld: Bringing up level for play took: 0.001184
+[2018.09.25-18.35.51:081][901]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 1.157
+[2018.09.25-18.35.51:081][901]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.09.25-18.36.03:966][432]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.09.25-18.36.03:966][432]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.25-18.36.04:001][432]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.25-18.36.04:001][432]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.09.25-18.36.04:028][432]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.25-18.36.04:068][436]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2018.09.25-18.36.05:186][570]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.25-18.36.05:514][608]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonHUD.FirstPersonHUD
+[2018.09.25-18.36.33:764][955]BlueprintLog: New page: Compile FirstPersonHUD
+[2018.09.25-18.36.35:763][182]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.25-18.36.35:774][182]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.09.25-18.36.35:774][182]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.25-18.36.35:774][182]PIE: New page: PIE session: FirstPersonExampleMap (Sep 25, 2018, 10:36:35 AM)
+[2018.09.25-18.36.35:774][182]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.09.25-18.36.35:783][182]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008251s)
+[2018.09.25-18.36.35:783][182]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.09.25-18.36.35:783][182]LogPlayLevel: PIE: World Init took: (0.000660s)
+[2018.09.25-18.36.35:784][182]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.009044s)
+[2018.09.25-18.36.35:814][182]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.25-18.36.35:890][182]LogInit: FAudioDevice initialized.
+[2018.09.25-18.36.35:917][182]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.09.25-18.36.35:919][182]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2018.09.25-14.36.35
+[2018.09.25-18.36.35:919][182]LogWorld: Bringing up level for play took: 0.001235
+[2018.09.25-18.36.35:931][182]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.007
+[2018.09.25-18.36.35:931][182]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.09.25-18.36.43:212][ 53]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.09.25-18.36.43:212][ 53]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.25-18.36.43:248][ 53]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.25-18.36.43:248][ 53]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.09.25-18.36.43:275][ 53]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.25-18.36.43:314][ 57]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2018.09.25-18.36.45:271][228]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.25-18.36.51:665][958]LogSavePackage: Moving '../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Saved/FirstPersonHUDC7CC8E5F4064A847A586E18802FE94B4.tmp' to '../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/FirstPersonBP/Blueprints/FirstPersonHUD.uasset'
+[2018.09.25-18.36.52:794][ 92]LogSlate: Window 'FirstPersonHUD' being destroyed
+[2018.09.25-18.36.52:799][ 92]LogSlate: Window 'FirstPersonHUD' being destroyed
+[2018.09.25-18.36.52:855][ 92]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.09.25-18.38.04:472][656]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/LodgeInterior.LodgeInterior
+[2018.09.25-18.38.10:864][656]LogSlate: Window 'Save Content' being destroyed
+[2018.09.25-18.38.11:100][656]LogSavePackage: Moving '../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Saved/FirstPersonExampleMapBF94E4324D7E5F32C586038FACDC36AF.tmp' to '../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2018.09.25-18.38.11:138][656]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.263
+[2018.09.25-18.38.11:209][656]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LodgeInterior" FILE="../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/Maps/LodgeInterior.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.09.25-18.38.11:240][656]LogSavePackage: Moving '../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Saved/LodgeInterior7F845D3143C66744DC66358275216DF8.tmp' to '../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/Maps/LodgeInterior.umap'
+[2018.09.25-18.38.11:242][656]LogFileHelpers: Saving map 'LodgeInterior' took 0.104
+[2018.09.25-18.38.11:316][656]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/SummitLandscape" FILE="../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/Maps/SummitLandscape.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.09.25-18.38.11:347][656]LogSavePackage: Moving '../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Saved/SummitLandscape92FE997E40AA65F5AA7A588FCA926EA5.tmp' to '../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/Maps/SummitLandscape.umap'
+[2018.09.25-18.38.11:350][656]LogFileHelpers: Saving map 'SummitLandscape' took 0.108
+[2018.09.25-18.38.11:352][656]Cmd: MAP LOAD FILE="../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/Maps/LodgeInterior.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.09.25-18.38.11:352][656]LightingResults: New page: Lighting Build
+[2018.09.25-18.38.11:353][656]LoadErrors: New page: Loading map: LodgeInterior.umap
+[2018.09.25-18.38.11:353][656]MapCheck: New page: Map Check
+[2018.09.25-18.38.11:354][656]LightingResults: New page: Lighting Build
+[2018.09.25-18.38.11:422][656]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.09.25-18.38.11:422][656]LogAIModule: Creating AISystem for world LodgeInterior
+[2018.09.25-18.38.11:455][656]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.09.25-18.38.11:526][656]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 70.908ms to complete.
+[2018.09.25-18.38.11:527][656]LogFileHelpers: Loading map 'LodgeInterior' took 0.176
+[2018.09.25-18.38.22:163][911]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.09.25-18.38.22:194][911]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.09.25-18.38.23:643][911]LogSlate: Window 'Delete Assets' being destroyed
+[2018.09.25-18.38.29:983][359]LogSlate: Window 'Delete Assets' being destroyed
+[2018.09.25-18.38.50:845][644]LogSlate: Window 'Delete Assets' being destroyed
+[2018.09.25-18.38.59:060][483]LogTexture: Display: Building textures: T_ML_FineRubber (AutoDXT, 2048X2048)
+[2018.09.25-18.39.01:596][483]LogSlate: Window 'Delete Assets' being destroyed
+[2018.09.25-18.39.07:899][984]LogSlate: Window 'Delete Assets' being destroyed
+[2018.09.25-18.39.14:236][575]LogSlate: Window 'Delete Assets' being destroyed
+[2018.09.25-18.39.41:471][769]LogSlate: Window 'Delete Assets' being destroyed
+[2018.09.25-18.39.54:325][116]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.09.25-18.39.54:398][117]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.BighornSummit
+[2018.09.25-18.39.54:398][117]LogTemp: CWD: C:\WPIAPPS\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.09.25-18.39.54:398][117]LogTemp: Initial Dir: C:\WPIAPPS\UE_4.20
+[2018.09.25-18.39.54:398][117]LogTemp: Env CWD: C:\WPIAPPS\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.09.25-18.39.54:398][117]LogTemp: BranchPath = FL222-16/C/WPIAPPS/UE_4.20/Engine/Binaries --- GameBranchPath = FL222-16/C/WPIAPPS/UE_4.20/Engine/Binaries
+[2018.09.25-18.39.54:398][117]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\lrbunyea\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.09.25-18.40.30:303][387]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LodgeInterior" FILE="../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/Maps/LodgeInterior.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.09.25-18.40.30:336][387]LogSavePackage: Moving '../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Saved/LodgeInterior25206019415EBFDC4F1ACA835096ECD3.tmp' to '../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/Maps/LodgeInterior.umap'
+[2018.09.25-18.40.31:825][556]LogSlate: Window 'Project Settings' being destroyed
+[2018.09.25-18.40.31:831][556]LogSlate: Window 'Project Settings' being destroyed
+[2018.09.25-18.40.40:536][595]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.09.25-18.40.41:230][595]LogAIModule: Creating AISystem for world Advanced_Lighting
+[2018.09.25-18.40.41:630][595]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.09.25-18.40.43:258][595]LogAIModule: Creating AISystem for world StarterMap
+[2018.09.25-18.40.45:381][595]LogSlate: Window 'Delete Assets' being destroyed
+[2018.09.25-18.41.53:615][696]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LodgeInterior" FILE="../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/Maps/LodgeInterior.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.09.25-18.41.53:647][696]LogSavePackage: Moving '../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Saved/LodgeInteriorC8D55FBA4042FB9EFD2AF4B60B6C392B.tmp' to '../../../../../Users/lrbunyea/BighornSummit/BighornSummit/Content/Maps/LodgeInterior.umap'
+[2018.09.25-18.41.55:712][934]LogSlate: Window 'BighornSummit - Unreal Editor' being destroyed
+[2018.09.25-18.41.55:902][935]Cmd: QUIT_EDITOR
+[2018.09.25-18.41.56:190][935]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.09.25-18.41.56:190][935]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.09.25-18.41.56:202][935]LogExit: Preparing to exit.
+[2018.09.25-18.41.56:579][935]LogExit: Editor shut down
+[2018.09.25-18.41.56:580][935]LogExit: Transaction tracking system shut down
+[2018.09.25-18.41.57:223][935]LogExit: Object subsystem successfully closed.
+[2018.09.25-18.41.57:235][935]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.09.25-18.41.57:239][935]LogD3D11RHI: Shutdown
+[2018.09.25-18.41.57:239][935]LogD3D11RHI: CleanupD3DDevice
+[2018.09.25-18.41.57:243][935]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.09.25-18.41.57:263][935]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (620)
+[2018.09.25-18.41.57:263][935]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (618)
+[2018.09.25-18.41.57:263][935]LogModuleManager: Shutting down and abandoning module Voice (616)
+[2018.09.25-18.41.57:263][935]LogModuleManager: Shutting down and abandoning module BlueprintGraph (614)
+[2018.09.25-18.41.57:263][935]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (612)
+[2018.09.25-18.41.57:263][935]LogModuleManager: Shutting down and abandoning module SceneOutliner (610)
+[2018.09.25-18.41.57:263][935]LogModuleManager: Shutting down and abandoning module AddContentDialog (608)
+[2018.09.25-18.41.57:263][935]LogModuleManager: Shutting down and abandoning module WidgetCarousel (607)
+[2018.09.25-18.41.57:263][935]LogModuleManager: Shutting down and abandoning module EditorWidgets (604)
+[2018.09.25-18.41.57:263][935]LogModuleManager: Shutting down and abandoning module CollectionManager (602)
+[2018.09.25-18.41.57:263][935]LogModuleManager: Shutting down and abandoning module StatsViewer (600)
+[2018.09.25-18.41.57:264][935]LogModuleManager: Shutting down and abandoning module MeshBuilder (598)
+[2018.09.25-18.41.57:264][935]LogModuleManager: Shutting down and abandoning module FoliageEdit (596)
+[2018.09.25-18.41.57:264][935]LogModuleManager: Shutting down and abandoning module LandscapeEditor (594)
+[2018.09.25-18.41.57:264][935]LogModuleManager: Shutting down and abandoning module MeshPaintMode (592)
+[2018.09.25-18.41.57:264][935]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (590)
+[2018.09.25-18.41.57:264][935]LogModuleManager: Shutting down and abandoning module ActorPickerMode (588)
+[2018.09.25-18.41.57:264][935]LogModuleManager: Shutting down and abandoning module GeometryMode (586)
+[2018.09.25-18.41.57:264][935]LogModuleManager: Shutting down and abandoning module TextureAlignMode (584)
+[2018.09.25-18.41.57:264][935]LogModuleManager: Shutting down and abandoning module BspMode (582)
+[2018.09.25-18.41.57:264][935]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (580)
+[2018.09.25-18.41.57:264][935]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (578)
+[2018.09.25-18.41.57:264][935]LogModuleManager: Shutting down and abandoning module AutomationWorker (576)
+[2018.09.25-18.41.57:264][935]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (574)
+[2018.09.25-18.41.57:264][935]LogModuleManager: Shutting down and abandoning module SequenceRecorder (573)
+[2018.09.25-18.41.57:264][935]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (570)
+[2018.09.25-18.41.57:264][935]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (568)
+[2018.09.25-18.41.57:264][935]LogModuleManager: Shutting down and abandoning module PlacementMode (567)
+[2018.09.25-18.41.57:264][935]LogModuleManager: Shutting down and abandoning module MaterialEditor (566)
+[2018.09.25-18.41.57:264][935]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (562)
+[2018.09.25-18.41.57:264][935]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (560)
+[2018.09.25-18.41.57:264][935]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (558)
+[2018.09.25-18.41.57:264][935]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (556)
+[2018.09.25-18.41.57:264][935]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (554)
+[2018.09.25-18.41.57:264][935]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (552)
+[2018.09.25-18.41.57:264][935]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (550)
+[2018.09.25-18.41.57:264][935]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (548)
+[2018.09.25-18.41.57:264][935]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (546)
+[2018.09.25-18.41.57:264][935]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (544)
+[2018.09.25-18.41.57:264][935]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (542)
+[2018.09.25-18.41.57:264][935]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (540)
+[2018.09.25-18.41.57:264][935]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (538)
+[2018.09.25-18.41.57:264][935]LogModuleManager: Shutting down and abandoning module CharacterAI (536)
+[2018.09.25-18.41.57:264][935]LogModuleManager: Shutting down and abandoning module SmartSnapping (534)
+[2018.09.25-18.41.57:264][935]LogModuleManager: Shutting down and abandoning module SessionServices (532)
+[2018.09.25-18.41.57:264][935]LogModuleManager: Shutting down and abandoning module ViewportSnapping (530)
+[2018.09.25-18.41.57:264][935]LogModuleManager: Shutting down and abandoning module ViewportInteraction (528)
+[2018.09.25-18.41.57:264][935]LogModuleManager: Shutting down and abandoning module ClothPainter (526)
+[2018.09.25-18.41.57:264][935]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (525)
+[2018.09.25-18.41.57:264][935]LogModuleManager: Shutting down and abandoning module LogVisualizer (522)
+[2018.09.25-18.41.57:264][935]LogModuleManager: Shutting down and abandoning module IntroTutorials (520)
+[2018.09.25-18.41.57:264][935]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (519)
+[2018.09.25-18.41.57:264][935]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (516)
+[2018.09.25-18.41.57:264][935]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (514)
+[2018.09.25-18.41.57:264][935]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (512)
+[2018.09.25-18.41.57:264][935]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (510)
+[2018.09.25-18.41.57:264][935]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (509)
+[2018.09.25-18.41.57:639][935]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (506)
+[2018.09.25-18.41.57:639][935]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (504)
+[2018.09.25-18.41.57:639][935]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (502)
+[2018.09.25-18.41.57:639][935]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (500)
+[2018.09.25-18.41.57:639][935]LogModuleManager: Shutting down and abandoning module InputBindingEditor (498)
+[2018.09.25-18.41.57:639][935]LogModuleManager: Shutting down and abandoning module MergeActors (496)
+[2018.09.25-18.41.57:639][935]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (494)
+[2018.09.25-18.41.57:639][935]LogModuleManager: Shutting down and abandoning module LocalizationService (493)
+[2018.09.25-18.41.57:639][935]LogModuleManager: Shutting down and abandoning module HardwareTargeting (490)
+[2018.09.25-18.41.57:639][935]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (488)
+[2018.09.25-18.41.57:639][935]LogModuleManager: Shutting down and abandoning module UndoHistory (486)
+[2018.09.25-18.41.57:639][935]LogModuleManager: Shutting down and abandoning module XmlParser (484)
+[2018.09.25-18.41.57:639][935]LogModuleManager: Shutting down and abandoning module Blutility (482)
+[2018.09.25-18.41.57:639][935]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (480)
+[2018.09.25-18.41.57:639][935]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (479)
+[2018.09.25-18.41.57:639][935]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (476)
+[2018.09.25-18.41.57:640][935]LogModuleManager: Shutting down and abandoning module SettingsEditor (474)
+[2018.09.25-18.41.57:640][935]LogModuleManager: Shutting down and abandoning module ProjectLauncher (472)
+[2018.09.25-18.41.57:640][935]LogModuleManager: Shutting down and abandoning module SessionFrontend (470)
+[2018.09.25-18.41.57:640][935]LogModuleManager: Shutting down and abandoning module ProfilerClient (468)
+[2018.09.25-18.41.57:640][935]LogModuleManager: Shutting down and abandoning module DeviceManager (466)
+[2018.09.25-18.41.57:640][935]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (465)
+[2018.09.25-18.41.57:693][935]LogModuleManager: Shutting down and abandoning module AutomationController (462)
+[2018.09.25-18.41.57:693][935]LogModuleManager: Shutting down and abandoning module AutomationWindow (460)
+[2018.09.25-18.41.57:693][935]LogModuleManager: Shutting down and abandoning module Layers (458)
+[2018.09.25-18.41.57:693][935]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (456)
+[2018.09.25-18.41.57:693][935]LogModuleManager: Shutting down and abandoning module DetailCustomizations (454)
+[2018.09.25-18.41.57:693][935]LogModuleManager: Shutting down and abandoning module PackagesDialog (452)
+[2018.09.25-18.41.57:693][935]LogModuleManager: Shutting down and abandoning module Persona (450)
+[2018.09.25-18.41.57:693][935]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (449)
+[2018.09.25-18.41.57:693][935]LogModuleManager: Shutting down and abandoning module AnimGraph (447)
+[2018.09.25-18.41.57:693][935]LogModuleManager: Shutting down and abandoning module Kismet (444)
+[2018.09.25-18.41.57:696][935]LogModuleManager: Shutting down and abandoning module GraphEditor (442)
+[2018.09.25-18.41.57:696][935]LogModuleManager: Shutting down and abandoning module ClassViewer (440)
+[2018.09.25-18.41.57:697][935]LogModuleManager: Shutting down and abandoning module Toolbox (438)
+[2018.09.25-18.41.57:697][935]LogModuleManager: Shutting down and abandoning module ModuleUI (436)
+[2018.09.25-18.41.57:697][935]LogModuleManager: Shutting down and abandoning module MovieSceneTools (434)
+[2018.09.25-18.41.57:697][935]LogModuleManager: Shutting down and abandoning module OutputLog (432)
+[2018.09.25-18.41.57:697][935]LogModuleManager: Shutting down and abandoning module GammaUI (430)
+[2018.09.25-18.41.57:697][935]LogModuleManager: Shutting down and abandoning module Documentation (428)
+[2018.09.25-18.41.57:697][935]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (426)
+[2018.09.25-18.41.57:697][935]LogModuleManager: Shutting down and abandoning module MovieScene (424)
+[2018.09.25-18.41.57:697][935]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (422)
+[2018.09.25-18.41.57:697][935]LogModuleManager: Shutting down and abandoning module LauncherPlatform (420)
+[2018.09.25-18.41.57:697][935]LogModuleManager: Shutting down and abandoning module AnalyticsET (418)
+[2018.09.25-18.41.57:697][935]LogModuleManager: Shutting down and abandoning module PortalServices (416)
+[2018.09.25-18.41.57:697][935]LogModuleManager: Shutting down and abandoning module PortalRpc (414)
+[2018.09.25-18.41.57:697][935]LogModuleManager: Shutting down and abandoning module MessagingRpc (412)
+[2018.09.25-18.41.57:697][935]LogModuleManager: Shutting down and abandoning module AIModule (410)
+[2018.09.25-18.41.57:697][935]LogModuleManager: Shutting down and abandoning module GameplayDebugger (409)
+[2018.09.25-18.41.57:697][935]LogModuleManager: Shutting down and abandoning module AITestSuite (407)
+[2018.09.25-18.41.57:697][935]LogModuleManager: Shutting down and abandoning module NavigationSystem (405)
+[2018.09.25-18.41.57:697][935]LogModuleManager: Shutting down and abandoning module DesktopPlatform (402)
+[2018.09.25-18.41.57:697][935]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2018.09.25-18.41.57:919][935]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2018.09.25-18.41.57:919][935]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2018.09.25-18.41.57:919][935]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2018.09.25-18.41.57:919][935]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2018.09.25-18.41.57:919][935]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2018.09.25-18.41.57:919][935]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2018.09.25-18.41.57:919][935]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2018.09.25-18.41.57:919][935]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2018.09.25-18.41.57:919][935]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2018.09.25-18.41.57:919][935]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2018.09.25-18.41.57:919][935]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2018.09.25-18.41.57:919][935]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2018.09.25-18.41.57:919][935]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2018.09.25-18.41.57:919][935]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2018.09.25-18.41.57:919][935]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (370)
+[2018.09.25-18.41.57:919][935]LogModuleManager: Shutting down and abandoning module MediaCompositing (368)
+[2018.09.25-18.41.57:919][935]LogModuleManager: Shutting down and abandoning module LinearTimecode (366)
+[2018.09.25-18.41.57:919][935]LogModuleManager: Shutting down and abandoning module ImgMedia (364)
+[2018.09.25-18.41.57:922][935]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2018.09.25-18.41.57:922][935]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2018.09.25-18.41.57:922][935]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2018.09.25-18.41.57:922][935]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2018.09.25-18.41.57:922][935]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2018.09.25-18.41.57:922][935]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2018.09.25-18.41.57:922][935]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2018.09.25-18.41.57:922][935]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2018.09.25-18.41.57:922][935]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2018.09.25-18.41.57:922][935]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2018.09.25-18.41.57:922][935]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (342)
+[2018.09.25-18.41.57:922][935]LogModuleManager: Shutting down and abandoning module DatasmithContent (340)
+[2018.09.25-18.41.57:922][935]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2018.09.25-18.41.57:923][935]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2018.09.25-18.41.57:923][935]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2018.09.25-18.41.57:923][935]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2018.09.25-18.41.57:923][935]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2018.09.25-18.41.57:923][935]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2018.09.25-18.41.57:923][935]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2018.09.25-18.41.57:923][935]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2018.09.25-18.41.57:923][935]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2018.09.25-18.41.57:923][935]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2018.09.25-18.41.57:923][935]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2018.09.25-18.41.57:923][935]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2018.09.25-18.41.57:923][935]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2018.09.25-18.41.57:923][935]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2018.09.25-18.41.57:923][935]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2018.09.25-18.41.57:923][935]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (308)
+[2018.09.25-18.41.57:923][935]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (306)
+[2018.09.25-18.41.57:923][935]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (304)
+[2018.09.25-18.41.57:923][935]LogModuleManager: Shutting down and abandoning module Paper2DEditor (302)
+[2018.09.25-18.41.57:923][935]LogModuleManager: Shutting down and abandoning module MeshPaint (301)
+[2018.09.25-18.41.57:923][935]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (298)
+[2018.09.25-18.41.57:923][935]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (296)
+[2018.09.25-18.41.57:923][935]LogModuleManager: Shutting down and abandoning module PhysXVehicles (294)
+[2018.09.25-18.41.57:923][935]LogModuleManager: Shutting down and abandoning module OculusEditor (292)
+[2018.09.25-18.41.57:923][935]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (290)
+[2018.09.25-18.41.57:923][935]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (288)
+[2018.09.25-18.41.57:923][935]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (286)
+[2018.09.25-18.41.57:923][935]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2018.09.25-18.41.57:923][935]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2018.09.25-18.41.58:024][935]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2018.09.25-18.41.58:125][935]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2018.09.25-18.41.58:125][935]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2018.09.25-18.41.58:125][935]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2018.09.25-18.41.58:125][935]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2018.09.25-18.41.58:125][935]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2018.09.25-18.41.58:125][935]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2018.09.25-18.41.58:125][935]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2018.09.25-18.41.58:125][935]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2018.09.25-18.41.58:125][935]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2018.09.25-18.41.58:125][935]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2018.09.25-18.41.58:125][935]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2018.09.25-18.41.58:125][935]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2018.09.25-18.41.58:126][935]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2018.09.25-18.41.58:126][935]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2018.09.25-18.41.58:126][935]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2018.09.25-18.41.58:126][935]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2018.09.25-18.41.58:126][935]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2018.09.25-18.41.58:126][935]LogModuleManager: Shutting down and abandoning module WmfMedia (244)
+[2018.09.25-18.41.58:127][935]LogModuleManager: Shutting down and abandoning module Media (243)
+[2018.09.25-18.41.58:134][935]LogModuleManager: Shutting down and abandoning module PacketHandler (240)
+[2018.09.25-18.41.58:134][935]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (238)
+[2018.09.25-18.41.58:134][935]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (236)
+[2018.09.25-18.41.58:134][935]LogModuleManager: Shutting down and abandoning module MediaAssets (234)
+[2018.09.25-18.41.58:134][935]LogModuleManager: Shutting down and abandoning module Overlay (232)
+[2018.09.25-18.41.58:134][935]LogModuleManager: Shutting down and abandoning module OverlayEditor (231)
+[2018.09.25-18.41.58:134][935]LogModuleManager: Shutting down and abandoning module VREditor (228)
+[2018.09.25-18.41.58:134][935]LogModuleManager: Shutting down and abandoning module StringTableEditor (226)
+[2018.09.25-18.41.58:134][935]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (224)
+[2018.09.25-18.41.58:134][935]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (222)
+[2018.09.25-18.41.58:134][935]LogModuleManager: Shutting down and abandoning module FunctionalTesting (220)
+[2018.09.25-18.41.58:134][935]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (218)
+[2018.09.25-18.41.58:134][935]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (217)
+[2018.09.25-18.41.58:134][935]LogModuleManager: Shutting down and abandoning module UMG (214)
+[2018.09.25-18.41.58:134][935]LogModuleManager: Shutting down and abandoning module UMGEditor (213)
+[2018.09.25-18.41.58:134][935]LogModuleManager: Shutting down and abandoning module Sequencer (212)
+[2018.09.25-18.41.58:134][935]LogModuleManager: Shutting down and abandoning module MessageLog (209)
+[2018.09.25-18.41.58:134][935]LogModuleManager: Shutting down and abandoning module SlateReflector (204)
+[2018.09.25-18.41.58:134][935]LogModuleManager: Shutting down and abandoning module Slate (202)
+[2018.09.25-18.41.58:134][935]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2018.09.25-18.41.58:135][935]LogModuleManager: Shutting down and abandoning module MRMesh (198)
+[2018.09.25-18.41.58:135][935]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (196)
+[2018.09.25-18.41.58:135][935]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (194)
+[2018.09.25-18.41.58:135][935]LogModuleManager: Shutting down and abandoning module XAudio2 (192)
+[2018.09.25-18.41.58:135][935]LogModuleManager: Shutting down and abandoning module Networking (190)
+[2018.09.25-18.41.58:135][935]LogModuleManager: Shutting down and abandoning module Core (188)
+[2018.09.25-18.41.58:135][935]LogModuleManager: Shutting down and abandoning module LevelSequence (186)
+[2018.09.25-18.41.58:135][935]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2018.09.25-18.41.58:135][935]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2018.09.25-18.41.58:135][935]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2018.09.25-18.41.58:135][935]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2018.09.25-18.41.58:135][935]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (179)
+[2018.09.25-18.41.58:135][935]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2018.09.25-18.41.58:135][935]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (175)
+[2018.09.25-18.41.58:135][935]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (173)
+[2018.09.25-18.41.58:135][935]LogModuleManager: Shutting down and abandoning module MaterialBaking (169)
+[2018.09.25-18.41.58:135][935]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (165)
+[2018.09.25-18.41.58:135][935]LogModuleManager: Shutting down and abandoning module DerivedDataCache (162)
+[2018.09.25-18.41.58:193][935]LogDerivedDataCache: Shutdown
+[2018.09.25-18.41.58:193][935]LogModuleManager: Shutting down and abandoning module XGEController (160)
+[2018.09.25-18.41.58:193][935]LogModuleManager: Shutting down and abandoning module TargetPlatform (158)
+[2018.09.25-18.41.58:193][935]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (157)
+[2018.09.25-18.41.58:193][935]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (155)
+[2018.09.25-18.41.58:193][935]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (153)
+[2018.09.25-18.41.58:193][935]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (151)
+[2018.09.25-18.41.58:193][935]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (149)
+[2018.09.25-18.41.58:193][935]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (147)
+[2018.09.25-18.41.58:193][935]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (145)
+[2018.09.25-18.41.58:193][935]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (143)
+[2018.09.25-18.41.58:193][935]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (141)
+[2018.09.25-18.41.58:193][935]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (139)
+[2018.09.25-18.41.58:193][935]LogModuleManager: Shutting down and abandoning module ImageWrapper (138)
+[2018.09.25-18.41.58:193][935]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (135)
+[2018.09.25-18.41.58:193][935]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (133)
+[2018.09.25-18.41.58:193][935]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (131)
+[2018.09.25-18.41.58:193][935]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (129)
+[2018.09.25-18.41.58:193][935]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (127)
+[2018.09.25-18.41.58:193][935]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (125)
+[2018.09.25-18.41.58:193][935]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (123)
+[2018.09.25-18.41.58:193][935]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (121)
+[2018.09.25-18.41.58:193][935]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2018.09.25-18.41.58:193][935]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (117)
+[2018.09.25-18.41.58:194][935]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2018.09.25-18.41.58:194][935]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2018.09.25-18.41.58:194][935]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (111)
+[2018.09.25-18.41.58:194][935]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (109)
+[2018.09.25-18.41.58:199][935]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (107)
+[2018.09.25-18.41.58:199][935]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (105)
+[2018.09.25-18.41.58:199][935]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (103)
+[2018.09.25-18.41.58:199][935]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (101)
+[2018.09.25-18.41.58:199][935]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (99)
+[2018.09.25-18.41.58:199][935]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (97)
+[2018.09.25-18.41.58:199][935]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (95)
+[2018.09.25-18.41.58:199][935]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (93)
+[2018.09.25-18.41.58:199][935]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (91)
+[2018.09.25-18.41.58:199][935]LogModuleManager: Shutting down and abandoning module InputCore (88)
+[2018.09.25-18.41.58:199][935]LogModuleManager: Shutting down and abandoning module Settings (86)
+[2018.09.25-18.41.58:199][935]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2018.09.25-18.41.58:199][935]LogModuleManager: Shutting down and abandoning module SteamVR (82)
+[2018.09.25-18.41.58:199][935]LogModuleManager: Shutting down and abandoning module OculusHMD (80)
+[2018.09.25-18.41.58:199][935]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2018.09.25-18.41.58:199][935]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2018.09.25-18.41.58:199][935]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2018.09.25-18.41.58:199][935]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2018.09.25-18.41.58:200][935]LogModuleManager: Shutting down and abandoning module XMPP (65)
+[2018.09.25-18.41.58:200][935]LogModuleManager: Shutting down and abandoning module WebSockets (64)
+[2018.09.25-18.41.58:216][935]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2018.09.25-18.41.58:216][935]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.09.25-18.41.58:216][935]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B50F14B88-4CE2-1756-15C8-D89EC205FDD6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.1-4233996%2B%2B%2BUE4%2BRelease-4.20&UserID=9ee4ac4b4b66254c8df43cbb7472cbf1%7C%7Cd59bcd1d-8b6c-4b26-9b58-5126f21bf6ac&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.09.25-18.41.58:241][935]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2018.09.25-18.41.58:242][935]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2018.09.25-18.41.58:242][935]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2018.09.25-18.41.58:242][935]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2018.09.25-18.41.58:242][935]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2018.09.25-18.41.58:242][935]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2018.09.25-18.41.58:242][935]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2018.09.25-18.41.58:242][935]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2018.09.25-18.41.58:242][935]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2018.09.25-18.41.58:242][935]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2018.09.25-18.41.58:242][935]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.09.25-18.41.58:242][935]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2018.09.25-18.41.58:242][935]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.09.25-18.41.58:242][935]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.09.25-18.41.58:242][935]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.09.25-18.41.58:242][935]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.09.25-18.41.58:242][935]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.09.25-18.41.58:242][935]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.09.25-18.41.58:242][935]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.09.25-18.41.58:243][935]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.09.25-18.41.58:243][935]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.09.25-18.41.58:243][935]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.09.25-18.41.58:243][935]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.09.25-18.41.58:243][935]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.09.25-18.41.58:243][935]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.09.25-18.41.58:243][935]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.09.25-18.41.58:243][935]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.09.25-18.41.58:243][935]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.09.25-18.41.58:243][935]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.09.25-18.41.58:243][935]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.09.25-18.41.58:251][935]LogExit: Exiting.
+[2018.09.25-18.41.58:275][935]Log file closed, 09/25/18 14:41:58
